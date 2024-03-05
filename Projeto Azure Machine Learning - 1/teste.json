@@ -1,0 +1,20 @@
+{
+    "Inputs": {
+      "data": [
+        {
+          "Gender": "example_value",
+          "Annual Income": 0,
+          "Model": "example_value",
+          "Engine": "example_value",
+          "Transmission": "example_value",
+          "Color": "example_value",
+          "Price ($)": 0,
+          "Body Style": "example_value",
+          "Dealer_Region": "example_value"
+        }
+      ]
+    },
+    "GlobalParameters": {
+      "method": "predict"
+    }
+  }
